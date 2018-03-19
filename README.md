@@ -1,4 +1,4 @@
- #Do you have all tools and materials?
+# Do you have all tools and materials?
 
 Tools: Iron, Scissors
 Materials: 2x Dual sided bonding, Conductive Ripstop, Piezo Resistive fabric, Decorative cover, Calico backing
@@ -14,7 +14,7 @@ Using the paper template we provided, cut the piezo resistive material and the c
 
 ![](03_cut.jpg)
 
-#Remove Backing layers
+# Remove Backing layers
 
 Peel off the backing layer from the dual sided bonding.
 
