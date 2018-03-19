@@ -1,3 +1,4 @@
+
 Basic instructions on how to assemble the sample package. Additional, more detailed interactions can be found in our [instructables](https://www.instructables.com/id/ZPatch-Hybrid-ResistiveCapacitive-ETextile-Input/)
 
 # Do you have all tools and materials?
@@ -7,7 +8,8 @@ Materials: 2x Dual sided bonding, Conductive Ripstop, Piezo Resistive fabric, De
 
 ![](01_tools_materials.jpg)
 
-# Iron Bonding on to Calico Backing and and Conductive Ripstop. (Protect your ironing board and iron with extra wax paper)
+# Iron Bonding on to Calico Backing and and Conductive Ripstop. 
+(Protect your ironing board and iron with extra wax paper)
 
 ![](02_glue.jpg)
 
