@@ -1,3 +1,5 @@
+Basic instructions on how to assemble the sample package. Additional, more detailed interactions can be found on our [instructables](https://www.instructables.com/id/ZPatch-Hybrid-ResistiveCapacitive-ETextile-Input/)
+
 # Do you have all tools and materials?
 
 Tools: Iron, Scissors
