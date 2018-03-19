@@ -40,7 +40,7 @@ Stack your layers,
 
 # Iron
 
-Iron it all together
+Iron it all together & cut them to shape
 
 ![](05_finish.jpg)
 
