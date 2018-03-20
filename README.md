@@ -1,4 +1,4 @@
-Basic instructions on how to assemble the sample package. Additional, more detailed interactions can be found in our [instructables](https://www.instructables.com/id/ZPatch-Hybrid-ResistiveCapacitive-ETextile-Input/)
+,Basic instructions on how to assemble the sample package. Additional, more detailed interactions can be found in our [instructables](https://www.instructables.com/id/ZPatch-Hybrid-ResistiveCapacitive-ETextile-Input/)
 
 EDIT: 20/3/2018 - I received a lot of specific questions while demoing and handing out sample-kits. I will be gradually updating these instructions to address these during the next days. Feel free to also e-mail me at paul dot strohmeier at gmail dot com.
 
@@ -51,5 +51,5 @@ Connect it to two analog input pins of an Arduino (A0 and A1 in the example code
 
 # Share
 
-If you build this succesfully, let me know! If you don't let me know so I can help: paul dot strohmeier at gmail dot com.
+If you build this succesfully, let me know! If you don't, let me know so I can help: paul dot strohmeier at gmail dot com.
 If you make anything with this, I'd love to link to it, so let me know.
