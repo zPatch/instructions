@@ -1,4 +1,3 @@
-
 Basic instructions on how to assemble the sample package. Additional, more detailed interactions can be found in our [instructables](https://www.instructables.com/id/ZPatch-Hybrid-ResistiveCapacitive-ETextile-Input/)
 
 EDIT: 20/3/2018 - I received a lot of specific questions while demoing and handing out sample-kits. I will be gradually updating these instructions to address these during the next days. Feel free to also e-mail me at paul dot strohmeier at gmail dot com.
@@ -42,10 +41,15 @@ Stack your layers,
 
 # Iron
 
-Iron it all together & cut them to shape
+Iron it all together & cut them to shape. The ironing might compress the fabric, reducing the range of the piezo resistive fabric. you can bend it a couple of times and squish it in different directions to remove strain on the piezo resistive material to increase its dynamic range.
 
 ![](05_finish.jpg)
 
 # Program
 
 Connect it to two analog input pins of an Arduino (A0 and A1 in the example code) and upload [the following code](https://github.com/zPatch/zPatch.github.io/tree/master/ArduinoCode/fabricSensor) https://github.com/zPatch/zPatch.github.io/tree/master/ArduinoCode/fabricSensor 
+
+# Share
+
+If you build this succesfully, let me know! If you don't let me know so I can help: paul dot strohmeier at gmail dot com.
+If you make anything with this, I'd love to link to it, so let me know.
