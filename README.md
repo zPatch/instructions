@@ -1,4 +1,4 @@
-,Basic instructions on how to assemble the sample package. Additional, more detailed interactions can be found in our [instructables](https://www.instructables.com/id/ZPatch-Hybrid-ResistiveCapacitive-ETextile-Input/)
+Basic instructions on how to assemble the sample package. Additional, more detailed interactions can be found in our [instructables](https://www.instructables.com/id/ZPatch-Hybrid-ResistiveCapacitive-ETextile-Input/)
 
 EDIT: 20/3/2018 - I received a lot of specific questions while demoing and handing out sample-kits. I will be gradually updating these instructions to address these during the next days. Feel free to also e-mail me at paul dot strohmeier at gmail dot com.
 
